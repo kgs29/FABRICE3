@@ -13,6 +13,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Supprimez ou commentez cette ligne si elle existe */
+/* @import 'tw-animate-css'; */
 :root {
   --prim-color:#FF6701;
 
